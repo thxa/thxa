@@ -31,7 +31,7 @@ I'm a passionate Software Engineer with a strong interest in Machine Learning, C
 - **LeetCode**: [7H4M3R](https://leetcode.com/u/7H4M3R/)
 - **Codeforces**: [7h4m3r](https://codeforces.com/profile/7h4m3r)
 - **VJudge**: [7h4m3r](https://vjudge.net/user/7h4m3r)
-
+- **Kaggle**: [thameralharbi](https://www.kaggle.com/thameralharbi)
 ## 📈 Stats
 ![Thamer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thxa&show_icons=true&theme=radical)
 
