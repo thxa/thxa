@@ -28,7 +28,6 @@ I'm a passionate Software Engineer with a strong interest in Machine Learning, C
 
 ## 👥 Connect with Me
 - **LinkedIn**: [Thamer Alharbi](https://www.linkedin.com/in/thamer-al-harbi-a60a65167/?profileId=ACoAACfYdagBIlnlClZ-hl1yK6slhoX2ykJgOjE)
-- **GitHub**: [thxa](https://github.com/thxa)
 - **LeetCode**: [7H4M3R](https://leetcode.com/u/7H4M3R/)
 - **Codeforces**: [7h4m3r](https://codeforces.com/profile/7h4m3r)
 - **VJudge**: [7h4m3r](https://vjudge.net/user/7h4m3r)
