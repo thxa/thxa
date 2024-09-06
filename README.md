@@ -34,6 +34,16 @@ I'm a passionate Software Engineer with a strong interest in Machine Learning, C
 - **Kaggle**: [thameralharbi](https://www.kaggle.com/thameralharbi)
 ## 📈 Stats
 ![Thamer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thxa&show_icons=true&theme=radical)
+### Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thxa&layout=compact&theme=radical)
+### Contribution Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thxa&theme=dracula)
+### GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=thxa&theme=onedark)
+### GitHub Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thxa&theme=radical)
+
+
 
 ## 💡 Fun Fact
 I'm not just into coding; I love solving complex puzzles and participating in competitive programming challenges!
@@ -42,3 +52,5 @@ I'm not just into coding; I love solving complex puzzles and participating in co
 
 ## 🏆 Achievements
 -->
+
+[![](https://visitcount.itsvg.in/api?id=thxa&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
