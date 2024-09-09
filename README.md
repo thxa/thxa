@@ -22,16 +22,30 @@ I'm a passionate Software Engineer with a strong interest in Machine Learning, C
 - **Web Development**: Django, HTML/CSS, Node.js
 - **Machine Learning**: Sagemaker, scikit-learn, TensorFlow, PyTorch 
 - **Cloud Computing**: AWS Cloud, AliBaba Cloud
-- **Databases**: Sqlite, PostgreSQL, DynamoDB, Mariadb
+- **Databases**: Sqlite, PostgreSQL, DynamoDB, Mariadb, MySQL
 - **Operating Systems**: Linux
 - **Tools & Technologies**: Git, Docker, neovim
 
-## 👥 Connect with Me
-- **LinkedIn**: [Thamer Alharbi](https://www.linkedin.com/in/thamer-al-harbi-a60a65167/?profileId=ACoAACfYdagBIlnlClZ-hl1yK6slhoX2ykJgOjE)
+## 🌐 Connect with Me
+- **LinkedIn**: [Thamer Alharbi](https://www.linkedin.com/in/7H4M3R)
+
+
+## 🏅 Competitive Programming Profiles
 - **LeetCode**: [7H4M3R](https://leetcode.com/u/7H4M3R/)
 - **Codeforces**: [7h4m3r](https://codeforces.com/profile/7h4m3r)
 - **VJudge**: [7h4m3r](https://vjudge.net/user/7h4m3r)
 - **Kaggle**: [thameralharbi](https://www.kaggle.com/thameralharbi)
+- **CodeWars**: [7H4M3R](https://www.codewars.com/users/7H4M3R)
+- **CoderHub**: [thxa](https://profile.satr.codes/thxa/public/overview)
+- **HackerRank**: [0xthxa](https://www.hackerrank.com/profile/0xthxa)
+
+## 🔐 Cyber Security Profiles
+- **CyberHub**: [7H4M3R](https://cyberhub.sa/profile/7H4M3R)
+- **picoCTF**: [X7H4M3R](https://play.picoctf.org/users/X7H4M3R)
+- **HTB**: [7H4M3R](https://app.hackthebox.com/profile/36493)
+- **FlagYard**: [7H4M3R](https://flagyard.com/profile/7H4M3R)
+
+
 ## 📈 Stats
 ![Thamer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thxa&show_icons=true&theme=radical)
 ### Top Languages
